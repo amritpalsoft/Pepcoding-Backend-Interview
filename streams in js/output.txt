@@ -1,0 +1,2 @@
+Hello my name is amrit pal and I am learning Javascript node js mongodb 
+react js express and git i am going to be a full stack developer

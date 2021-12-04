@@ -1,0 +1,10 @@
+Streams are provided by Node JS 
+When we see video on Youtube then we see that video loads slowly 
+And that loading of Data chunk by chunk is called as Streaming 
+
+Types of Streams:
+
+i. readable: we read data chunk by chunk 
+ii. writable: we write data
+iii. duplex: both reading and writing of data 
+iv. transform: manipulating data
